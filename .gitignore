@@ -1,0 +1,8 @@
+# Python (for MkDocs)
+*.pyc
+__pycache__/
+site/
+
+# General
+*.log
+.tmp/
