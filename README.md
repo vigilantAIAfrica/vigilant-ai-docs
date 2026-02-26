@@ -4,9 +4,9 @@ Documentation hub for Vigilant AI, including guides, API docs, and project overv
 
 Comprehensive documentation for building and using AI scam detection in Africa.
 
-[![GitHub license](https://img.shields.io/github/license/VigilantAI/vigilant-ai-docs)](https://github.com/VigilantAI/vigilant-ai-docs/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/VigilantAI/vigilant-ai-docs)](https://github.com/VigilantAI/vigilant-ai-docs/issues)
-[![GitHub stars](https://img.shields.io/github/stars/VigilantAI/vigilant-ai-docs)](https://github.com/VigilantAI/vigilant-ai-docs/stargazers)
+[![GitHub license](https://img.shields.io/github/license/VigilantAIAfrica/vigilant-ai-docs)](https://github.com/VigilantAIAfrica/vigilant-ai-docs/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/VigilantAIAfrica/vigilant-ai-docs)](https://github.com/VigilantAIAfrica/vigilant-ai-docs/issues)
+[![GitHub stars](https://img.shields.io/github/stars/VigilantAIAfrica/vigilant-ai-docs)](https://github.com/VigilantAIAfrica/vigilant-ai-docs/stargazers)
 
 ## Features
 - Beginner-friendly guides for Kenyan developers.
@@ -31,7 +31,7 @@ Comprehensive documentation for building and using AI scam detection in Africa.
 - Full details in /roadmap/.
 
 ## Contributing
-Help document for impact! Fork, edit MD, PR. See [code of conduct](https://github.com/VigilantAI/.github/blob/main/CODE_OF_CONDUCT.md).
+Help document for impact! Fork, edit MD, PR. See [code of conduct](https://github.com/VigilantAIAfrica/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 MIT License - see [LICENSE](LICENSE) for details.
